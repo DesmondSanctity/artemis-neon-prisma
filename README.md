@@ -2,7 +2,7 @@
 This is a demo of building APIs with NestJS framework, Prisma ORM and Neon Postgres database.
 
 For prerequisite, you need to have installed:
-- Node.js
+- Node.js 16.13/18.X/20.X
 - NPM
 
 To clone this project, you will run the command below in the directory of your choice in your terminal:
